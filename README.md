@@ -1,5 +1,5 @@
 #BluePlayer
-==========
+---
 
 This is simple but very funcional python multimedia player.
 made with Pyside and Qt5 in Python 2.7
