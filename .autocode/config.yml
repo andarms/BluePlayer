@@ -1,0 +1,7 @@
+name: andarms/BluePlayer
+author:
+  name: Adrian Manjarres
+  email: andarms@outlook.com
+  url: null
+copyright: 2015 Adrian Manjarres
+description: a python multimedia player made with PySide and QT
